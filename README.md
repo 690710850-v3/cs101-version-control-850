@@ -1,4 +1,5 @@
 # cs101-version-control-850
+
 # My CS Profile
 
 ## About Me
@@ -13,3 +14,8 @@
 ## Technology Interests
 - Artificial Intelligence
 - Game Development
+
+## Skills
+- Problem solving
+- Python basics
+- Teamwork
